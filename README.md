@@ -18,8 +18,8 @@ This project comes in two flavors: A Bash script and a C++ based command line ap
 
 To use this you must...
 
-* [Have ADB set up correctly and talking with your device.]
-* [Have read/write access to your device's /system folder. (Be rooted.)]
+* Have ADB set up correctly and talking with your device.
+* Have read/write access to your device's /system folder. (Be rooted.)
 
 Future plans
 ------------
