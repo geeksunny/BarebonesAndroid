@@ -24,4 +24,6 @@ To use this you must...
 Future plans
 ------------
 
-This source code is currently up for archival purposes.  I do not currently have any plans to update this any further.  It will probably be rewritten and improved upon in the future.
+This source code is currently up for archival purposes.
+
+I plan on rewriting this project in the future to be more compatible with other ROMs and easier to use.
